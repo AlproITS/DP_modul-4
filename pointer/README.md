@@ -1,5 +1,11 @@
 ## Daftar Isi
 
+- [Halaman Awal](https://github.com/AlproITS/DP_modul-4)
+- [Alamat Memori](#alamat-memori)
+- [Pengenalan Pointer](#pengenalan-pointer)
+- [Pointer dan Array](#pointer-dan-array)
+- [Pointer dan Fungsi](#pointer-dan-fungsi)
+
 # Pointer
 
 ## Alamat Memori
@@ -290,3 +296,7 @@ int main()
     return 0;
 }
 ```
+
+[Lanjut ke Struct >](https://github.com/AlproITS/DP_modul-4/tree/master/struct)
+
+[Halaman Awal >](https://github.com/AlproITS/DP_modul-4)
