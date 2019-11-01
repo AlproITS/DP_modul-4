@@ -124,7 +124,7 @@ int main(void)
 
 ## Double Pointer
 
-Variabel pointer juga dapat menunjukkan variabel pointer lainnya. Hal ini disebut dengan double pointer (pointer to pointer). Untuk mendeklarasikan variabel double pointer, digunakan dua simbol `*`.
+Variabel pointer juga dapat menunjuk variabel pointer lainnya. Hal ini disebut dengan double pointer (pointer to pointer). Untuk mendeklarasikan variabel double pointer, digunakan dua simbol `*`. Kegunaan paling umum dari variabel double pointer adalah untuk membuat array dua dimensi secara dinamis.
 
 ```c
 int **dbPtr;
@@ -146,13 +146,10 @@ int main(void)
     return 0;
 }
 ```
-Ilustrasi double pointer.
 
 ## Pointer dan Array
 
-Contoh array `A[]`.
-
-![](img/array-2.png)
+![](../img/array-2.png)
 
 Kita sudah mengetahui bahwa array adalah kumpulan data yang disusun secara sekuensial. Karena disusun secara sekuensial, alamat-alamat memori tiap elemen array juga tersusun secara berurutan.
 
@@ -222,7 +219,7 @@ Output
 
 Sebelumnya kita sudah mengetahui bahwa fungsi dapat menerima parameter sebagai input dari fungsi. Penggunaan-penggunaan parameter fungsi selama ini sebenarnya menggunakan konsep **Pass by Value**. Selain menggunakan cara _Pass by Value_, terdapat cara lain untuk passing argumen pada fungsi.
 
-![](img/function_passing.gif)
+![](../img/function_passing.gif)
 
 ### _Pass by Value_
 
