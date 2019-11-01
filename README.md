@@ -4,8 +4,6 @@
 
 # Pointer
 
-# Pointer
-
 ## Alamat Memori
 
 ### Operator Ampersand (`&`)
@@ -150,7 +148,7 @@ Ilustrasi double pointer.
 
 Contoh array `A[]`.
 
-![](array-2.png)
+![](img/array-2.png)
 
 Kita sudah mengetahui bahwa array adalah kumpulan data yang disusun secara sekuensial. Karena disusun secara sekuensial, alamat-alamat memori tiap elemen array juga tersusun secara berurutan.
 
@@ -220,7 +218,7 @@ Output
 
 Sebelumnya kita sudah mengetahui bahwa fungsi dapat menerima parameter sebagai input dari fungsi. Penggunaan-penggunaan parameter fungsi selama ini sebenarnya menggunakan konsep **Pass by Value**. Selain menggunakan cara _Pass by Value_, terdapat cara lain untuk passing argumen pada fungsi.
 
-![](function_passing.gif)
+![](img/function_passing.gif)
 
 ### _Pass by Value_
 
@@ -295,5 +293,5 @@ int main()
 }
 ```
 
-## Dynamic Allocation
+# Struct
 
