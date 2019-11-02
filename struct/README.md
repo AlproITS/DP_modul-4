@@ -1,5 +1,14 @@
 # Struct
 
+## Daftar Isi
+
+- [Halaman Awal](https://github.com/AlproITS/DP_modul-4)
+- [Pengenalan Struct](#pengenalan-struct)
+- [Deklarasi Struct](#deklarasi-struct)
+- [Variabel Struct](#variabel-struct)
+- [Akses Member Struct](#akses-member-struct)
+- [Array of Struct](#array-of-struct)
+
 ## Pengenalan Struct
 
 Dalam bahasa C, struct adalah salah satu tipe data turunan atau bisa disebut juga _User Defined Data Type_ yang dapat mengelompokkan beberapa variabel dibawah satu nama. Tidak seperti array yang hanya dapat menyimpan elemen dengan tipe data sama, struct dapat mengelompokkan elemen dengan tipe data yang berbeda-beda.
@@ -139,3 +148,7 @@ int main()
     return 0;
 }
 ```
+
+[Lanjut ke Pointer >](https://github.com/AlproITS/DP_modul-4/tree/master/pointer)
+
+[Halaman Awal >](https://github.com/AlproITS/DP_modul-4)

@@ -1,3 +1,5 @@
+# Pointer
+
 ## Daftar Isi
 
 - [Halaman Awal](https://github.com/AlproITS/DP_modul-4)
@@ -5,8 +7,6 @@
 - [Pengenalan Pointer](#pengenalan-pointer)
 - [Pointer dan Array](#pointer-dan-array)
 - [Pointer dan Fungsi](#pointer-dan-fungsi)
-
-# Pointer
 
 ## Alamat Memori
 
