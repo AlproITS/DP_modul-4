@@ -10,11 +10,11 @@
 
 ## Alamat Memori
 
-### Operator Ampersand (`&`)
+### Operator Address-Of (`&`)
 
 Setiap **variabel, fungsi, struct, ataupun objek lain** yang dibuat dalam program mempunyai alokasi masing-masing pada memori. Alokasi tersebut disimpan dalam alamat memori tertentu. Misalnya :
 
-Terdapat variabel bernama `var`. Untuk mengetahui alamat memori dari variabel, digunakan **operator ampersand** (`&`) didepan nama variabelnya.
+Terdapat variabel bernama `var`. Untuk mengetahui alamat memori dari variabel, digunakan **operator address-of** (`&`) didepan nama variabelnya.
 
 ```c
 int var = 5;
